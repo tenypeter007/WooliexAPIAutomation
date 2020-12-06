@@ -6,7 +6,7 @@
 
 ## Run the porject
 
-Provide the comment 
+Run  the below command in command line
 *  mvn clean test
 
 ## Reports
